@@ -5,9 +5,11 @@ I'm Steven Salazar and I'm a Software Engineering focusing on Cloud and Data Eng
 
 The technologies that I usually use can vary depending on the business requirements, however, we always respect our Cybersecurity and Compliance policies, which sometimes can be difficult for a Financial entity.
 
+
 :mortar_board: **Education:**
  - Master of Science in Computer Science and Engineering at `Politecnico di Milano` with a focus on Big Data and Cloud Engineering
  - Bachelors in Computer Engineering at `Università Degli Studi di Firenze` with a focus on Android and IoT development
+
 
 :dart: **Certifications and Badges:**
  - [Professional Data Engineer](https://google.accredible.com/c874ff83-0c63-4f0e-aa15-b0a70b0d45db)
@@ -16,12 +18,14 @@ The technologies that I usually use can vary depending on the business requireme
  - [Fundamentals for Apache Kafka](https://www.credential.net/7fed3fa6-cd5c-46e9-9adf-87a719fab8dd)
 
 
+
 :pushpin: **Projects:**
  - [Apache Spark Scalability Analysis](https://github.com/StevenSalazarM/Apache-Spark-Scalability-Analysis)
  - [Apache Spark Car Accidents in New York](https://github.com/StevenSalazarM/Apache-Spark-Car-Accidents-in-NY)
  - [Termux API Bluetooth](https://github.com/StevenSalazarM/Termux-api-bluetooth) - 48 :star: my most valuable contribution to the Open Source community
  - [Performance Comparison HTTP and MQTT](https://github.com/StevenSalazarM/Performance-comparison-http-mqtt) - my bachelor's thesis
  - [Sudoku Solver](https://github.com/StevenSalazarM/CSP-Sudoku-Solver) - my first project on AI and 10 forks
+
 
    
 :loudspeaker: **Contacts:**
