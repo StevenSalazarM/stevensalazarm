@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I'm Steven Salazar and I'm a Software Engineering focusing on Cloud and Data Engineering. Currently, I am working with Google Cloud technologies, by designing and implementing Data Analytics architectures for our business users. 
+I'm Steven Salazar and I'm a Software Engineer focusing on Cloud and Data Engineering. Currently, I am working with Google Cloud technologies, by designing and implementing Data Analytics architectures for our business users. 
 
 The technologies that I usually use can vary depending on the business requirements, however, we always respect our Cybersecurity and Compliance policies, which sometimes can be difficult for a Financial entity.
 
