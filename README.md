@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I'm Steven Salazar and I'm a Software Engineer focusing on Cloud and Data Engineering. Currently, I am working with Google Cloud technologies, by designing and implementing Data Analytics architectures for our business users. 
+I'm Steven Salazar and I'm a Software Engineer focusing on Cloud and Data Engineering. Currently, I am working as a Data Engineer at Quandoo GmbH, my main duty is to maintain our current data pipeline to ingest and process data related to new potential clients. In the last 6 months, I have positively contributed to the optimization of our existing pipeline in terms of costs, time execution, scalability and maintainability.
 
 The technologies that I usually use can vary depending on the business requirements, however, we always respect our Cybersecurity and Compliance policies, which sometimes can be difficult for a Financial entity.
 
@@ -12,6 +12,7 @@ The technologies that I usually use can vary depending on the business requireme
 
 
 :dart: **Certifications and Badges:**
+ - [Professional Cloud Architect](https://www.credly.com/badges/56a69593-c35a-4ef9-9f62-31982ca51a08/public_url)
  - [Professional Data Engineer](https://google.accredible.com/c874ff83-0c63-4f0e-aa15-b0a70b0d45db)
  - [Associate Cloud Engineer](https://www.credential.net/07288bfe-642a-4b2a-b48f-0fb2f3c6425a?key=7ca92c2a9bf9b6cba2ec4cf5e6a7fcb8e6ed533e490b956b9a07c62d394bf2c2)
  - [Machine Learning with Python: From Linear Models to Deep Learning by MITx](https://courses.edx.org/certificates/663cdc1ff3234fde932a8d0dd28cd38b)
@@ -36,8 +37,8 @@ The technologies that I usually use can vary depending on the business requireme
 :boy: **About me:**
 
 - 🔍 I’m currently looking for new job opportunities
-- 👨‍💻 I have over two years of experience deploying GCP Cloud environments for business users
-- 🔭 I worked on Streaming during my master's thesis with Apache Flink
+- 👨‍💻 I have over three years of experience deploying GCP Cloud environments and building data pipelines
+- 🔭 I worked on Streaming during my master's thesis with Apache Flink and lived for 12 years in Italy
 - :musical_note: I listen a lot of music (especially Salsa)
 - :running: I am on my way of getting the best version of myself 💪
 - 🛫 I love to travel, and one of my dreams is to visit every country in the world
